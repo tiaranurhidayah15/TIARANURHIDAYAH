@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-matplotlib
-statsmodels
-scikit-learn
-openpyx
+import streamlit
+import pandas
+import numpy
+import matplotlib
+import statsmodels
+import scikit-learn
+import openpyx
