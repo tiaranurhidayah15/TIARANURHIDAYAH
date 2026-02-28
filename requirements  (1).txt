@@ -1,1 +1,7 @@
-import matplotlib.pyplot as plt
+streamlit
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+openpyx
